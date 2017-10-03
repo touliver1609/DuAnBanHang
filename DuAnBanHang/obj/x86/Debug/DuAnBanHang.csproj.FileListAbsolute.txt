@@ -1,0 +1,9 @@
+C:\Users\Admin\Desktop\DuAnBanHang\DuAnBanHang\bin\Debug\DuAnBanHang.exe
+C:\Users\Admin\Desktop\DuAnBanHang\DuAnBanHang\bin\Debug\DuAnBanHang.pdb
+C:\Users\Admin\Desktop\DuAnBanHang\DuAnBanHang\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\DuAnBanHang\DuAnBanHang\obj\x86\Debug\DuAnBanHang.Form1.resources
+C:\Users\Admin\Desktop\DuAnBanHang\DuAnBanHang\obj\x86\Debug\DuAnBanHang.Properties.Resources.resources
+C:\Users\Admin\Desktop\DuAnBanHang\DuAnBanHang\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Admin\Desktop\DuAnBanHang\DuAnBanHang\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Admin\Desktop\DuAnBanHang\DuAnBanHang\obj\x86\Debug\DuAnBanHang.exe
+C:\Users\Admin\Desktop\DuAnBanHang\DuAnBanHang\obj\x86\Debug\DuAnBanHang.pdb
