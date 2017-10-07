@@ -1,0 +1,8 @@
+C:\Users\DaoHoang\Desktop\DuAnBanHang\DuAnBanHang\bin\Debug\DuAnBanHang.exe
+C:\Users\DaoHoang\Desktop\DuAnBanHang\DuAnBanHang\bin\Debug\DuAnBanHang.pdb
+C:\Users\DaoHoang\Desktop\DuAnBanHang\DuAnBanHang\obj\x86\Debug\DuAnBanHang.csprojResolveAssemblyReference.cache
+C:\Users\DaoHoang\Desktop\DuAnBanHang\DuAnBanHang\obj\x86\Debug\DuAnBanHang.Form1.resources
+C:\Users\DaoHoang\Desktop\DuAnBanHang\DuAnBanHang\obj\x86\Debug\DuAnBanHang.Properties.Resources.resources
+C:\Users\DaoHoang\Desktop\DuAnBanHang\DuAnBanHang\obj\x86\Debug\DuAnBanHang.csproj.GenerateResource.Cache
+C:\Users\DaoHoang\Desktop\DuAnBanHang\DuAnBanHang\obj\x86\Debug\DuAnBanHang.exe
+C:\Users\DaoHoang\Desktop\DuAnBanHang\DuAnBanHang\obj\x86\Debug\DuAnBanHang.pdb
