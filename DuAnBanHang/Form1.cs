@@ -15,5 +15,12 @@ namespace DuAnBanHang
         {
             InitializeComponent();
         }
+
+        private void Cart_Load(object sender, EventArgs e)
+        {
+
+        }
+
+      
     }
 }
