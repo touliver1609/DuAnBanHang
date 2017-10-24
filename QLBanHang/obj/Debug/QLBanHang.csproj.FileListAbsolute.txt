@@ -1,0 +1,13 @@
+D:\Project\QLBanHang\QLBanHang\bin\Debug\QLBanHang.exe.config
+D:\Project\QLBanHang\QLBanHang\bin\Debug\QLBanHang.exe
+D:\Project\QLBanHang\QLBanHang\bin\Debug\QLBanHang.pdb
+D:\Project\QLBanHang\QLBanHang\obj\Debug\QLBanHang.csprojResolveAssemblyReference.cache
+D:\Project\QLBanHang\QLBanHang\obj\Debug\QLBanHang.Properties.Resources.resources
+D:\Project\QLBanHang\QLBanHang\obj\Debug\QLBanHang.frmMain.resources
+D:\Project\QLBanHang\QLBanHang\obj\Debug\QLBanHang.View.frmNhanVien.resources
+D:\Project\QLBanHang\QLBanHang\obj\Debug\QLBanHang.csproj.GenerateResource.Cache
+D:\Project\QLBanHang\QLBanHang\obj\Debug\QLBanHang.exe
+D:\Project\QLBanHang\QLBanHang\obj\Debug\QLBanHang.pdb
+D:\Project\QLBanHang\QLBanHang\obj\Debug\QLBanHang.View.frmKhachHang.resources
+D:\Project\QLBanHang\QLBanHang\obj\Debug\QLBanHang.View.frmSanPham.resources
+D:\Project\QLBanHang\QLBanHang\obj\Debug\QLBanHang.View.frmHoaDon.resources
